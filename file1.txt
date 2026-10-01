@@ -2,3 +2,4 @@ stroke_1
 stroke_2(for master)
 Stroke_for_master
 
+Stroka by Seva file2.txt
